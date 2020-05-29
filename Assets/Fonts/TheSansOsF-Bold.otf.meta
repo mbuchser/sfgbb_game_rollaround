@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 16e8375eb8f8b46f79ef5343ddda8591
+timeCreated: 1509651993
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TheSansOsF
+  fontNames:
+  - TheSansOsF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
