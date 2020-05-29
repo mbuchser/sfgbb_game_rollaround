@@ -22,6 +22,9 @@ Kursziel:
 Level 1:
 - Boxed Collection: 4 Objekte in einem begrenzten Raum einsammeln (Zeit 30 sec)
 
+![Level 1 Preview](https://github.com/mbuchser/sfgbb_game_rollaround/blob/master//previews/level1_start.jpg?raw=true)
+
+
 Level 2:
 - Floating Plattform: 3 Objekte einsammeln auf einer schwebenden Plattform (Zeit 30 sec)
 
@@ -33,3 +36,5 @@ Level 4:
 
 Level 5:
 - Impossible: ...
+
+
