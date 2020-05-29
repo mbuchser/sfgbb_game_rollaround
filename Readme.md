@@ -13,10 +13,10 @@ http://marcbuchser.ch/SFGB/B237/Beispiele/Rollaround/
 Kursziel:
 - Unity 3D Basiskomponenten kennen lernen
 - Einfache 3D-Objekte mit Blender erzeugen und in Unity integrieren
-- Level erzeugen mit dem Level Editor
+- Level planen und umsetzen 
 - Effekte integrieren (Sound und Animationen)
 - Code erzeugen für die beteiligten Komponenten (Spielball/Objekte) in C#
-- Einfache Backend integration (Highscore Liste senden/abholen) in PHP/MYSQL
+- Einfache Backend integration (Highscore Liste senden/speichern/abholen) in PHP/MYSQL
 
 
 Level 1:
@@ -37,10 +37,9 @@ Level 3:
 
 ![Level 3 Preview](https://github.com/mbuchser/sfgbb_game_rollaround/blob/master/previews/level3_start.jpg?raw=true)
 
+
 Level 4:
- - Too hard: Zu schwierig...noch niemand hat Level 4 gesehen. 
+ - Floating Maze: Ein Objekt in einem Labyrinth muss eingesammelt werden - erschwerte Navigation (Zeit 45 Sec). 
 
-Level 5:
-- Impossible: ...
-
+![Level 4 Preview](https://github.com/mbuchser/sfgbb_game_rollaround/blob/master/previews/level4_start.jpg?
 
