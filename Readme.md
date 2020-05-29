@@ -2,7 +2,7 @@
 3D Game für den Kurs 3D Spiele mit Unity (Schule für Gestaltung Bern-Biel) für Web und iPhone
 
 Spielbeschreibung:
-5 Level, von einfach bis sehr schwer.
+4 Level, von einfach bis unmöglich.
 
 Der Spielball muss mit den Pfeiltasten (oder durch Bewegung des iPhone) bewegt werden um die Objekte innerhalb der vorgegebenen Zeit einzusammeln.
 
