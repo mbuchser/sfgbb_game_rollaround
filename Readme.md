@@ -22,14 +22,20 @@ Kursziel:
 Level 1:
 - Boxed Collection: 4 Objekte in einem begrenzten Raum einsammeln (Zeit 30 sec)
 
-![Level 1 Preview](https://github.com/mbuchser/sfgbb_game_rollaround/blob/master//previews/level1_start.jpg?raw=true)
+![Level 1 Preview](https://github.com/mbuchser/sfgbb_game_rollaround/blob/master/previews/level1_start.jpg?raw=true)
 
 
 Level 2:
 - Floating Plattform: 3 Objekte einsammeln auf einer schwebenden Plattform (Zeit 30 sec)
+- Lookaround Modus: Flyaround Camera View (Taste L)
+
+![Level 2 Preview](https://github.com/mbuchser/sfgbb_game_rollaround/blob/master/previews/level2_start.jpg?raw=true)
+
 
 Level 3:
 - Multiple floating Plattforms: 4 Objekte auf mehreren schwebenden und bewegten Plattformen einsammeln (Zeit 60 sec)
+
+![Level 3 Preview](https://github.com/mbuchser/sfgbb_game_rollaround/blob/master/previews/level3_start.jpg?raw=true)
 
 Level 4:
  - Too hard: Zu schwierig...noch niemand hat Level 4 gesehen. 
