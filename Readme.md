@@ -41,5 +41,4 @@ Level 3:
 Level 4:
  - Floating Maze: Ein Objekt in einem Labyrinth muss eingesammelt werden - erschwerte Navigation (Zeit 45 Sec). 
 
-![Level 4 Preview](https://github.com/mbuchser/sfgbb_game_rollaround/blob/master/previews/level4_start.jpg?
-
+![Level 4 Preview](https://github.com/mbuchser/sfgbb_game_rollaround/blob/master/previews/level4_start.jpg?raw=true)
